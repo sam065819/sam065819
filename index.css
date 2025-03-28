@@ -4,6 +4,10 @@ h1 {
     
 }
 body {
-    background: rgb(235,138,255);
-    background: linear-gradient(90deg, rgba(235,138,255,1) 0%, rgba(22,170,219,1) 47%, rgba(0,255,177,1) 100%); 
+    background: rgba(247,120,147,255);
+}
+p {
+    color: white;
+    font-family: Helvetica, sans-serif;
+    font-size: larger;
 }
