@@ -4,7 +4,8 @@ h1 {
     
 }
 body {
-    background: rgba(247,120,147,255);
+    background: rgb(235,138,255);
+background: linear-gradient(90deg, rgba(235,138,255,1) 0%, rgba(185,34,246,1) 47%, rgba(218,0,175,1) 100%);
 }
 p {
     color: white;
